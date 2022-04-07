@@ -1,14 +1,14 @@
 {
-  "name": "moodlemobile",
+  "name": "LMS Kendal Emas",
   "version": "3.9.5",
-  "description": "The official app for Moodle.",
+  "description": "E-learning Disdikbud Kendal",
   "author": {
     "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "email": "disdikbud@kendalkab.go.id"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/moodlehq/moodleapp.git"
   },
   "license": "Apache-2.0",
   "licenses": [
