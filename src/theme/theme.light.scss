@@ -12,7 +12,7 @@
     --gray-darker:     #{$gray-darker}; // Text (emphasis-detail), placeholder, background.
     --gray-dark:       #{$gray-dark}; // Borders (never text).
     --gray:            #{$gray};
-    --gray-light:      #{$blue}; // Background.
+    --gray-light:      #{$gray-darker}; // Background.
     --gray-lighter:    #{$gray-lighter};
     --white:           #{$white}; // Background, reversed text.
 
