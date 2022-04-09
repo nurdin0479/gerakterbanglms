@@ -54,9 +54,9 @@
         <preference name="SplashMaintainAspectRatio" value="true"/>
         <preference name="SplashShowOnlyFirstTime" value="true"/>
         <icon density="ldpi" src="resources/android/splash/ldpi.png"/>
-        <icon density="mdpi" src="resources/android/splash/ldpi.png"/>
-        <icon density="hdpi" src="resources/android/splash/ldpi.png"/>
-        <icon density="xhdpi" src="resources/android/splash/ldpi.png"/>
+        <icon density="mdpi" src="resources/android/splash/mdpi.png"/>
+        <icon density="hdpi" src="resources/android/splash/hdpi.png"/>
+        <icon density="xhdpi" src="resources/android/splash/xhdpi.png"/>
        <!-- <icon density="xxhdpi" src="resources/android/splash/ldpi.png"/>-->
         <!-- <icon density="xxxhdpi" src="resources/android/splash/ldpi.png"/> -->
         <!--  Portrait
