@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "284269752250",
-    "project_id": "lms-kendal-emas",
-    "storage_bucket": "lms-kendal-emas.appspot.com"
+    "project_number": "95023101188",
+    "project_id": "lmskendalemas",
+    "storage_bucket": "lmskendalemas.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:284269752250:android:4d9cce0bf83224caa6b783",
+        "mobilesdk_app_id": "1:95023101188:android:fb96e569d5c494b7004c51",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "com.nbfsoft.lmskendalemas"
         }
       },
       "oauth_client": [
         {
-          "client_id": "284269752250-603lc8ouu3vpi2c4k0nrg322ggi1bu10.apps.googleusercontent.com",
+          "client_id": "95023101188-562dcoo7rqpsom23p9p909g4stqd88nl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB-e4nhPfLi1JNmaQ-E4ch6KqW5o3T3lsQ"
+          "current_key": "AIzaSyBCL9ty8dSccztsKmF30hFvJbalCyBvUWw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "284269752250-603lc8ouu3vpi2c4k0nrg322ggi1bu10.apps.googleusercontent.com",
+              "client_id": "95023101188-562dcoo7rqpsom23p9p909g4stqd88nl.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
