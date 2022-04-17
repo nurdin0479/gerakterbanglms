@@ -2,7 +2,7 @@
 <widget android-versionCode="39503" id="com.moodle.moodlemobile" ios-CFBundleVersion="3.9.5.3" version="3.9.5" versionCode="39503" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>LMS Kendal Emas</name>
     <description>Disdikbud Kendal official app</description>
-    <author email="grandnbf@gmail.com" href="https://nbfsoft.com">Elearning Mobile</author>
+    <author email="grandnbf@gmail.com" href="https://nbfsoft.com">Elearning Mobileapp</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
