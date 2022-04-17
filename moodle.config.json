@@ -1,8 +1,8 @@
 {
     "app_id": "com.nbfsoft.lmskendalemas",
     "appname": "LMS Kendal Emas",
-    "versioncode": 11,
-    "versionname": "1.1",
+    "versioncode": 33950,
+    "versionname": "3.9.5",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
