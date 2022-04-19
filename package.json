@@ -1,10 +1,10 @@
 {
-  "name": "LMS Kendal Emas",
+  "name": "GeraK Terbang LMS",
   "version": "3.9.5",
-  "description": "E-learning Disdikbud Kendal",
+  "description": "LMS BKPP Kabupaten Kendal",
   "author": {
     "name": "Moodle Pty Ltd.",
-    "email": "disdikbud@kendalkab.go.id"
+    "email": "bkpp@kendalkab.go.id"
   },
   "repository": {
     "type": "git",
