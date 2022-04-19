@@ -1,6 +1,6 @@
 {
-    "app_id": "com.nbfsoft.lmskendalemas",
-    "appname": "LMS Kendal Emas",
+    "app_id": "com.nbfsoft.gerakterbanglms",
+    "appname": "Gerak Terbang LMS",
     "versioncode": 33950,
     "versionname": "3.9.5",
     "cache_update_frequency_usually": 420000,
@@ -81,8 +81,8 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://lmskendalemas.disdikbud.kendalkab.go.id",
-    "sitename": "LMS kendal Emas",
+    "siteurl": "http://lms.bkpp.kendalkab.go.id",
+    "sitename": "Gerak Terbang LMS",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
@@ -96,7 +96,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.nbfsoft.lmskendalemas",
+        "android": "com.nbfsoft.gerakterbanglms",
         "ios": "id633359593"
     }
 }

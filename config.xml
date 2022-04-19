@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="33950" id="com.nbfsoft.lmskendalemas" ios-CFBundleVersion="3.9.5.3" version="3.9.5" versionCode="39503" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>LMS Kendal Emas</name>
-    <description>Disdikbud Kendal official app</description>
+<widget android-versionCode="33950" id="com.nbfsoft.gerakterbanglms" ios-CFBundleVersion="3.9.5.3" version="3.9.5" versionCode="39503" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Gerak Terbang LMS </name>
+    <description>BKPP Kabupaten Kendal Mobile App</description>
     <author email="grandnbf@gmail.com" href="https://nbfsoft.com">Elearning Mobileapp</author>
     <content src="index.html" />
     <access origin="*" />

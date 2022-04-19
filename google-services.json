@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "95023101188",
-    "project_id": "lmskendalemas",
-    "storage_bucket": "lmskendalemas.appspot.com"
+    "project_number": "1001343580931",
+    "project_id": "gerak-terbang-lms",
+    "storage_bucket": "gerak-terbang-lms.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:95023101188:android:fb96e569d5c494b7004c51",
+        "mobilesdk_app_id": "1:1001343580931:android:58fb280dc8c3792f214736",
         "android_client_info": {
-          "package_name": "com.nbfsoft.lmskendalemas"
+          "package_name": "com.nbfsoft.gerakterbanglms"
         }
       },
       "oauth_client": [
         {
-          "client_id": "95023101188-562dcoo7rqpsom23p9p909g4stqd88nl.apps.googleusercontent.com",
+          "client_id": "1001343580931-srnu3s60gpogf3lfk6mk514dc1r90ub7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBCL9ty8dSccztsKmF30hFvJbalCyBvUWw"
+          "current_key": "AIzaSyBHB1Sss8WsczWQR28SwFdd8NqUEbpfUxU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "95023101188-562dcoo7rqpsom23p9p909g4stqd88nl.apps.googleusercontent.com",
+              "client_id": "1001343580931-srnu3s60gpogf3lfk6mk514dc1r90ub7.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1001343580931-bahugodelucgvnj58ftp1ovi28e9nnb3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nbfsoft.gerakterbanglms"
+              }
             }
           ]
         }
